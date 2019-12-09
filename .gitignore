@@ -1,0 +1,3 @@
+outfiles/*
+.ipynb_checkpoints/*
+data/*
