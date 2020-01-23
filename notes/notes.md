@@ -15,6 +15,7 @@
 * Render a mesh at the surface
 * Different datasets
 * Add tracts
+* Color coding for different areas
 
 # Overview of visualization methods that we can leverage in VR
 
@@ -46,6 +47,7 @@
 # Tracts
 
 * [Staging the connectome exhibit](https://www.youtube.com/watch?v=LtsBZlw5nQI)
+* [HoloLens demo](https://twitter.com/Dr_Alex_Crimi/status/1217948642067259392)
 * BrainVis (available on Oculus Store)
 
 # Volume rendering
@@ -66,3 +68,10 @@
 * Display via WebXR (three.js, aframe, etc.). Compatible with Firefox. JS environment.
 * Pull data into Unity, a commercial game engine. Coding in C#.
 * Pull data into Unreal, a commercial game engine. Coding in C++.
+
+# Alternative routes
+
+* Plugins
+  * ImageJ
+  * Paraview
+* [Other tools assembled by Alessandro Crimi](https://medium.com/@Dr_Alex_Crimi/practical-brain-tractography-and-beyond-ac3c8860306b)
