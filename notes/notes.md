@@ -32,11 +32,9 @@
 
 ![Semantic space selectivity, Gallant lab](gallant-web-viewer.png)
 
-![Fresnel shader for cortical surface, Tyler Sloan](fresnel.png)
+![Fresnel shader for cortical surface, Tyler Sloan](fresnel.jpg)
 
 # Particle systems
-
-![Demo reel, particles.js](particles.mp4)
 
 * Represent 3d data using particles
 * Particles may be points, cubes, tetrahedra, sprites, meshes, etc.
@@ -52,7 +50,7 @@
 
 # Volume rendering
 
-[BrainVoyager render](brainvoyager-render.png)
+![BrainVoyager render](brainvoyager-render.png)
 
 # Interactions
 
